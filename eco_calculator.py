@@ -1,5 +1,4 @@
 from tkinter import *
-from functools import partial  
 
 root= Tk()
 root.title("Engineering Economics Calculator")
